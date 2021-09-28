@@ -1,16 +1,19 @@
 {
-  "posts": [
+  "empresas": [
     {
       "id": 1,
-      "title": "Post 1"
+      "nome": "Via Varejo",
+      "endereco": "avenida paulista 1374" 
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "nome": "MAKFORTE COM. MAQS. LTDA ME",
+      "endereco": "avenida paulista 2374"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "nome": "TECH SHOP.COM.BR COM",
+      "endereco": "avenida paulista 123"
     }
   ],
   "comments": [
@@ -26,6 +29,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Singer Track"
   }
 }
