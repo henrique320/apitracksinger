@@ -1,8 +1,8 @@
 {
   "destinos": [
-    { "id": 1, "empresa": "VIA VAREJO S/A", "endereco" : "Rua Humberto Scigliano, 61 - Parque Munhoz" },
-    { "id": 2, "empresa": "TECH SHOP.COM.BR COM. E SERV", "endereco" : "Av. Paulista, 1374, São Paulo, SP" },
-    { "id": 3, "empresa": "MAKFORTE COM. MAQS. LTDA ME", "endereco" : "avenida santo amaro, 1000" },
+    { "id": 1, "empresa": "VIA VAREJO S/A"},
+    { "id": 2, "empresa": "TECH SHOP.COM.BR COM. E SERV"},
+    { "id": 3, "empresa": "MAKFORTE COM. MAQS. LTDA ME"},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
