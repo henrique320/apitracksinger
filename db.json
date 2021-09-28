@@ -1,5 +1,13 @@
-"destinos": {
-  "name_empresa" : "Noma da Empresa de DEstino",
-  "data_de_emissao" : "01/01/2021",
-  "endereco_de_entrega" : "Rua Humberto Scigliano, 61 - Parque Munhoz"
+{
+    "User": {
+        "name": {
+            "string": {}
+        },
+        "online": {
+            "boolean": {}
+        },
+        "picture": {
+            "regexp": "..."
+        }
+    }
 }
