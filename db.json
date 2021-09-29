@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nome": "Via Varejo",
-      "endereco": "avenida paulista 1374" 
+      "endereco": "Rua 13 de Maio, 635 - Centro, Campinas - SP, 13012-100" 
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
     {
       "id": 3,
       "nome": "TECH SHOP.COM.BR COM",
-      "endereco": "avenida paulista 123"
+      "endereco": "R. Floriano Peixoto, 952 - Centro, Itu - SP, 13300-055"
     }
   ],
   "comments": [
